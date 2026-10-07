@@ -1,0 +1,6 @@
+{
+  "name": "Amalon International Education CRM",
+  "description": "Comprehensive multi-branch Study Abroad CRM for Amalon International Education managing students, applications, documents, visas, payments, university commissions, and timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
